@@ -1,5 +1,5 @@
 - 👋 Hi, I’m `@ogShaddo`
-- 👀 I’m interested in `crypto/NFTs`, `Chess`, `computers/software`, `the military`, `gaming`, and `sports`. 
+- 👀 I’m interested in `crypto/NFTs`, `Chess`, `computers/software`, `defense`, `gaming`, and `sports`. 
 - 🌱 I’m currently learning `computer science`.
 - 💞️ I’m looking to collaborate on `¯\_(ツ)_/¯`
 - 📫 How to reach me `Discord` or `Telegram`
