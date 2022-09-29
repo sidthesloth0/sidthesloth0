@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning `computer science`.
 - 💞️ I’m looking to collaborate on `¯\_(ツ)_/¯`
 - 📫 Email me: `email@sidthesloth.dev`
-- 🔗 (GitHub profile link)[https://github.sidthesloth.dev]
+- 🔗 [GitHub profile link](https://github.sidthesloth.dev])
 
 <!---
 sidthesloth0/sidthesloth0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
