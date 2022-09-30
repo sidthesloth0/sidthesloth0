@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning `computer science`.
 - 💞️ I’m looking to collaborate on `¯\_(ツ)_/¯`
 - 📫 Email me: `email@sidthesloth.dev`
+- 🔗 [github.sidthesloth.dev](https://github.sidthesloth.dev)
 
 
 <!---
