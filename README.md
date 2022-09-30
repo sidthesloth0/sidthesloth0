@@ -1,9 +1,10 @@
 - 👋 Hi, I’m `Sid`
 - 👀 I’m interested in `crypto/NFTs`, `Chess`, `computers/software`, `defense`, `gaming`, and `sports`. 
 - 🌱 I’m currently learning `computer science`.
-- 💞️ I’m looking to collaborate on `¯\_(ツ)_/¯`
+- 💞️ I’m looking to collaborate on `email`.
 - 📫 Email me: `email@sidthesloth.dev`
 - 🔗 [github.sidthesloth.dev](https://github.sidthesloth.dev)
+- `¯\_(ツ)_/¯`
 
 
 <!---
