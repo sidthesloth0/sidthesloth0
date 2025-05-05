@@ -2,8 +2,8 @@
 - 👀 I’m interested in `Chess`, `computers/software`, `cyber security`, `defense`, `gaming`, and `sports`. 
 - 🌱 I’m currently studying `computer science`.
 - 💞️ I’m looking to collaborate on `email`.
-- 📫 Email me: [`email@sidthesloth.dev`](mailto:email@sidthesloth.dev)
-- 🔗 [https://sidthesloth.dev/github](https://sidthesloth.dev/github)
+- 📫 Email me: [`sid@dsouza.dev`](mailto:dsouza.dev)
+- 🔗 [https://dsouza.dev/github](https://dsouza.dev/github)
 - `¯\_(ツ)_/¯`
 
 
